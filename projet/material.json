@@ -1,0 +1,40 @@
+[
+    {
+        "Sous_lot": "NOTES COMMUNES aux CCTP TERRASSEMENT, VOIRIE ET ASSAINISSEMENT",
+        "Sous_sous_lot": "1.4 - LIMITES DES PRESTATIONS",
+        "matériau_générique": "Fourreaux TPC ø 90 aiguillés, Fourreaux TPC ø 75 aiguillés, Fourreaux TPC ø 40 aiguillés",
+        "caractéristiques_techniques": "Le béton d’enrobement des fourreaux sera dosé à 250 kg de ciment au mètre cube."
+    },
+    {
+        "Sous_lot": "CHAPITRE 3",
+        "Sous_sous_lot": "3.4 - FOURNITURE DE CBLES Sans objet ",
+        "Sous_sous_sous_lot": "3.10 - DOSSIER ADMINISTRATIF",
+        "matériau_générique": "Fourreaux TPC",
+        "caractéristiques_techniques": "Fourniture et déroulement de câble conducteur, en tranchée ou par fourreaux, la section étant calculée par l'entrepreneur pour l'ensemble de l'opération."
+    },
+    {
+        "Sous_lot": "CHAPITRE 4 EVALUATION DES OUVRAGES",
+        "Sous_sous_lot": "4.2 – FOURREAUX",
+        "Sous_sous_sous_lot": "4.2.1 - Fourreaux TPC  90 aiguillés",
+        "matériau_générique": "Béton d'enrobement des fourreaux",
+        "caractéristiques_techniques": "Le béton d'enrobement des fourreaux sera dosé à 250 kg de ciment au mètre cube."
+    },
+    {
+        "Sous_lot": "CHAPITRE 2",
+        "Sous_sous_lot": "2.3 - MARQUAGE DES CBLES (Pour Information) Les cbles seront du type U 1000 RVFV dont la section sera  calculer par l’entreprise dans son étude.",
+        "matériau_générique": "CÂBLES",
+        "caractéristiques_techniques": "Les câbles seront du type U 1000 RVFV dont la section sera à calculer par l’entreprise dans son étude."
+    },
+    {
+        "Sous_lot": "CHAPITRE 2",
+        "Sous_sous_lot": "3.3 - FOURNITURE DE CBLES",
+        "matériau_générique": "Câbles",
+        "caractéristiques_techniques": "Les câbles seront du type U 1000 RVFV dont la section sera à calculer par l’entreprise dans son étude. Les câbles devront être agréés par la ville de SAINT JEAN DE MONTS."
+    },
+    {
+        "Sous_lot": "CHAPITRE 2",
+        "Sous_sous_lot": "4.5 – CONSUEL – DOSSIER DE PLAN DE RECOLEMENT",
+        "matériau_générique": "Fourreaux TPC ø 90 aiguillés",
+        "caractéristiques_techniques": "Fourniture et le déroulement de câble conducteur, en tranchée ou par fourreaux, la section étant calculée par l'entrepreneur pour l'ensemble de l'opération. Le béton d'enrobement des fourreaux sera dosé à 250 kg de ciment au mètre cube."
+    }
+]
